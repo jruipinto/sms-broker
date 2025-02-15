@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./projects/sms-broker-rs/Cargo.toml"
+    ]
+}
